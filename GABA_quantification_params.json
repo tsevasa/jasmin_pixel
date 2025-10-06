@@ -1,122 +1,80 @@
 {
     "JA-CNTNAP2-12-20250925 20x 100% 10 weeks 555 GABA 647 hNuc/JA-CNTNAP2-12-20250925 20x 100% 10 weeks 555 GABA 647 hNuc_1" : {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 6000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 6000, "nuc_params": []},
+        "C": {"min_val": 0, "max_val": 6000, "nuc_params": []},
+        "D": {"min_val": 0, "max_val": 6000, "nuc_params": []},
+        "E": {"min_val": 0, "max_val": 6000, "nuc_params": []},
+        "F": {"min_val": 0, "max_val": 6000, "nuc_params": []},
+        "G": {"min_val": 0, "max_val": 6000, "nuc_params": []},
+        "H": {"min_val": 0, "max_val": 6000, "nuc_params": []}
     },
     "JA-CNTNAP2-12-20250925 20x 100% 5 weeks 555 GABA 647 hNuc/JA-CNTNAP2-12-20250925 20x 100% 5 weeks 555 GABA 647 hNuc_2025.09.25.11.21.09": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "C": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "D": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "E": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "F": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "G": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "H": {"min_val": 0, "max_val": 9000, "nuc_params": []}
     },
     "JA-CNTNAP2-12-20250925 20x 80%&#47;20% 5 weeks 555 GABA 647 hNuc/JA-CNTNAP2-12-20250925 20x 80%&#47;20% 5 weeks 555 GABA 647 hNuc_2025.09.25.12.10.02": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "C": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "D": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "E": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "F": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "G": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "H": {"min_val": 0, "max_val": 9000, "nuc_params": []}
     },
     "SQ2-20250926 20x 100% 5 weeks 555 GABA 647 hNuc/SQ2-20250926 20x 100% 5 weeks 555 GABA 647 hNuc_1": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 4500, "nuc_params": [500, 4500, 300, 0.4, 0.92]},
+        "B": {"min_val": 0, "max_val": 4500, "nuc_params": [500, 4500, 300, 0.4, 0.92]},
+        "C": {"min_val": 0, "max_val": 4500, "nuc_params": [500, 4500, 300, 0.4, 0.92]},
+        "D": {"min_val": 0, "max_val": 4500, "nuc_params": [500, 4500, 300, 0.4, 0.92]},
+        "E": {"min_val": 0, "max_val": 4500, "nuc_params": [500, 4500, 300, 0.4, 0.92]},
+        "F": {"min_val": 0, "max_val": 4500, "nuc_params": [500, 4500, 300, 0.4, 0.92]},
+        "G": {"min_val": 0, "max_val": 4500, "nuc_params": [500, 4500, 300, 0.4, 0.92]},
+        "H": {"min_val": 0, "max_val": 4500, "nuc_params": [500, 4500, 300, 0.4, 0.92]}
     },
     "SQ2-20250926 20x 80-20 5 weeks 555 GABA 647 hNuc/SQ2-20250926 20x 80-20 5 weeks 555 GABA 647 hNuc_1": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "C": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "D": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "E": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "F": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "G": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "H": {"min_val": 0, "max_val": 9000, "nuc_params": []}
     },
     "SQ3-20250926 20x 80-20 10 weeks 555 GABA 647 hNuc/SQ3-20250926 20x 80-20 10 weeks 555 GABA 647 hNuc_1": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 9000, "nuc_params": []}
     },
     "SQ3-20250929 20x 100% 5 weeks 555 GABA 647 hNuc/SQ3-20250929 20x 100% 5 weeks 555 GABA 647 hNuc_1": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 9000, "nuc_params": []}
     },
     "SQ3-20250929 20x 80-20 5 weeks 555 GABA 647 hNuc/SQ3-20250929 20x 80-20 5 weeks 555 GABA 647 hNuc_1": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 9000, "nuc_params": []}
     },
     "SQ4-20250929 20x 100% 5 weeks 555 GABA 647 hNuc/SQ4-20250929 20x 100% 5 weeks 555 GABA 647 hNuc_1": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 9000, "nuc_params": []}
     },
     "SQ4-20250929 20x 80-20 5 weeks 555 GABA 647 hNuc/SQ4-20250929 20x 80-20 5 weeks 555 GABA 647 hNuc_1": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 9000, "nuc_params": []}
     },
     "SQ4-20250930 20x 100% 10 weeks 555 GABA 647 hNuc/SQ4-20250930 20x 100% 10 weeks 555 GABA 647 hNuc_1": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 5000, "nuc_params": [300, 5000, 300, 0.4, 0.92]},
+        "B": {"min_val": 0, "max_val": 5000, "nuc_params": [300, 5000, 300, 0.4, 0.92]}
     },
     "SQ4-20250930 20x 80-20 10 weeks 555 GABA 647 hNuc/SQ4-20250930 20x 80-20 10 weeks 555 GABA 647 hNuc_1": {
-        "A": [],
-        "B": [],
-        "C": [],
-        "D": [],
-        "E": [],
-        "F": [],
-        "G": [],
-        "H": []
+        "A": {"min_val": 0, "max_val": 9000, "nuc_params": []},
+        "B": {"min_val": 0, "max_val": 9000, "nuc_params": []}
     }
 }
